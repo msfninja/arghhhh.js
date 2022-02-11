@@ -1,0 +1,24 @@
+{
+	"name": "arghhhh.js",
+	"version": "0.0.0-alpha.0",
+	"description": "An argument reassigner for JavaScript functions.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/msfninja/arghhhh.js.git"
+	},
+	"keywords": [
+		"nodejs",
+		"npm",
+		"package"
+	],
+	"author": "msfninja <msfninja@pm.me>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/msfninja/arghhhh.js/issues"
+	},
+	"homepage": "https://github.com/msfninja/arghhhh.js#readme"
+}
